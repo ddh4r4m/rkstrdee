@@ -1,3 +1,15 @@
+<p align="left"><strong><samp>「</samp></strong></p><p align="center">
+    <samp>
+      “The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who knows the great enthusiasms, the great devotions, and spends himself in a worthy cause; who at best, if he wins, knows the thrills of high achievement, and, if he fails, at least fails daring greatly, so that his place shall never be with those cold and timid souls who know neither victory or defeat.”
+    </samp>
+    <br>
+</p>
+<br>
+<p align="right"><strong><samp>― Theodore Roosevelt</samp></strong></p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
+
+
 ### Hi there, I'm Dharam 👋
 
 ### Connect with me:
