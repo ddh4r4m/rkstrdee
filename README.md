@@ -12,6 +12,11 @@
 
 ### Hi there, I'm Dharam 👋
 
+<div align="center">
+  
+  [![Dharam's Project Stats](https://github-readme-stats.vercel.app/api?username=rkstrdee&count_private=true&show_icons=true&include_all_commits=true)]
+
+</div>
 ### Connect with me:
 
 [<img align="left" alt="rkstrdee.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
